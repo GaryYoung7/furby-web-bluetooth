@@ -22,10 +22,10 @@
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "Believer.dlc", 
+        "title": "pain",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "Chilli ", "action": [75,0,1,3] }
         ]
     }
 ]
